@@ -19,7 +19,7 @@ const useStyles = makeStyles(theme => ({
     zIndex: 100,
   },
   root: {
-    // position: "relative",  zIndex: 0,
+   
     backgroundColor: "#FFE6F3",
     height: "100vh",
   },
@@ -223,10 +223,4 @@ export function SignUp(props) {
   );
 }
 
-// <Backdrop
-//         className={classes.backdrop}
-//         open={true}
-//         // onClick={handleClose}
-//       >
-//         {" "}
-//         <CircularProgress color="inherit" />  </Backdrop>
+ 
