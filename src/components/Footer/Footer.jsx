@@ -30,10 +30,6 @@ export function Footer(props) {
         <a href="https://www.myntra.com/" className={classes.link}>
           Myntra.
         </a>
-        Images used here are taken from
-        <a href="https://unsplash.com/" className={classes.link}>
-          Unsplash
-        </a>{" "}
       </div>
 
       <div className={classes.content}>
